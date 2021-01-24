@@ -1,6 +1,6 @@
-package ru.geekbrains.lesson1;
+package ru.geekbrains.lessons;
 
-public class MainApp {
+public class Lesson1 {
 
     //Task 2
     String name = "Bill";
